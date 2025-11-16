@@ -47,6 +47,8 @@ Successful - \
 Error - \
 `{ "status": "error", "message": "Folder not found" }`
 
+**Provided UML Diagram to show ZeroMQ request flow**
+<img width="1221" height="843" alt="Screenshot 2025-11-16 at 1 43 50 PM" src="https://github.com/user-attachments/assets/096a9901-a497-4f52-bc1c-40e6bd21b6e0" />
 
 
 
